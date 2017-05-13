@@ -1,0 +1,217 @@
+﻿body {
+    direction:rtl;  
+        margin: 0 auto;
+    width:960px;
+    height:600px;
+}
+
+#container{
+    background-image:url(../image/try.jpg);
+    background-repeat:no-repeat;
+    background-position-y:-70px;
+    margin: 0 auto;
+    width:960px;
+    height:600px;
+}
+
+#navigation{
+        margin: 0 auto;
+        padding-right:177px;
+        padding-top:50px;
+}
+
+ul {
+    list-style:none;
+
+}
+
+nav ul li {
+    display:inline-block;
+    float:right;
+    margin-top:47px;
+}
+
+nav ul li {
+    display: block;
+    width: 150px;
+    height: 20px;
+    padding-top: 10px;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Secular One', sans-serif;
+}
+
+nav a{
+    color:#7F6736;
+}
+
+nav a:hover {
+    color:#32023c;
+    font-weight:bold;   
+     background-color:#d4c8c8;
+
+}
+
+h1{
+    margin:auto 0;
+    text-align:center;
+    font-family: 'Varela Round', sans-serif;
+    font-weight:bold;
+    font-size:80px;
+    padding-top:140px;
+    padding-right:32px;
+}
+
+h2{
+     margin:auto 0;
+    text-align:center;
+    font-family: 'Varela Round', sans-serif;
+    font-weight:bold;
+    font-size:70px;
+    padding-right:30px;
+}
+
+p{
+     margin:auto 0;
+    text-align:center;
+    font-family: 'Varela Round', sans-serif;
+    font-size:20px;
+    padding-top:40px;
+    padding-right:55px;
+
+
+}
+
+h3{
+    padding-top:73px;
+    margin-right: 517px;
+    font-family: 'Secular One', sans-serif;
+    font-size:15px;
+}
+
+footer{
+    margin-top:-15px;
+    margin-right:-70px;
+}
+
+#mail{
+    background-image: url(../image/mailsprite.png);
+    background-repeat: no-repeat;
+    width: 43px;
+    background-size: 100px;
+    height: 186px;
+    background-position: right;
+    display: inline-block;
+    margin-right:550px;
+    margin-top:-70px;
+}
+
+#mail:hover{
+    background-position: left;
+}
+
+#facebook{
+    background-image: url(../image/facebooksprite.png);
+    background-repeat: no-repeat;
+    width: 50px;
+    background-size: 218px;
+    height: 186px;
+    background-position-x:-22px;
+    display: inline-block;
+    margin-right: 484px;
+    margin-top: -143px;
+}
+
+#facebook:hover{
+    background-position-x:-78px;
+    }
+
+.containerA {
+    background-image:url(../image/book-1210150_960_720.jpg);
+    background-repeat:no-repeat;
+    margin: 0 auto;
+    width:960px;   
+    height: 681px;
+    background-position-y: -37px;     
+    display:inline-block;
+}
+
+.containerA h1 {
+    font-size:30px;
+    text-align:right;
+    padding-right:182px;
+    margin-top: -34px;
+}
+
+.containerA h2{
+    font-size:25px;
+    text-align:right;
+    padding-right:267px;
+    display:inline-block;
+}
+
+.containerA p  {
+    font-size: 20px;
+    width: 300px;
+    text-align: right;
+    margin-right: 123px;
+}
+
+#presentationMedia{
+    margin-top: -305px;
+    padding-right: 516px;
+
+}
+
+#titleTikshoret{
+    padding-top:20px;
+    padding-right: 184px;   
+
+}
+
+
+#Tikshoret{
+    margin-right:528px;
+    margin-top: -400px;     
+}
+
+#containerA figure{
+    height:350px;
+    width:350px;
+    display:inline-block;
+    margin-right:200px;
+    margin-top:40px;
+}
+
+
+#tikshoretMedia{
+    margin-right: 527px;
+    margin-top: 65px;
+}
+
+#dean{
+    padding-right: 518px;
+    margin-top: -425px;
+}
+
+.color{
+    background-color:#f7eeee;
+}
+
+#music{
+    margin-right:173px;
+    margin-top:-20px;
+}
+
+.footerA{
+    bottom:90px;
+    width:600px;
+    height:60px; 
+    margin-right: -54px;
+
+}
+
+#footerB {
+    margin-top: 132px;
+    margin-right: -54px;
+}
